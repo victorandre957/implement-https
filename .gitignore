@@ -1,0 +1,5 @@
+*.venv
+.tool-versions
+*.pdf
+*.crt
+*.key
